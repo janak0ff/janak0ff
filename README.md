@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janak kr Shrestha</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janak0ff" alt="janak0ff" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janak0ff&label=Profile%20views&color=0e75b6&style=flat" alt="janak0ff" /> </p>
 
 - 🔭 I’m currently working on [Human Anatomy](https://kalyanishrestha.com.np)
 
